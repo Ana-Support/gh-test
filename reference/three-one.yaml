@@ -2,7 +2,7 @@ openapi: 3.1.0
 x-stoplight:
   id: gf7bunau6htzx
 info:
-  title: three-1
+  title: three-one
   version: '1.0'
 servers:
   - url: 'http://localhost:3000'
