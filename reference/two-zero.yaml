@@ -2,7 +2,7 @@ swagger: '2.0'
 x-stoplight:
   id: qwzpgu4u9ntoy
 info:
-  title: two-zero
+  title: two-zero2
   version: '1.0'
 host: 'localhost:3000'
 schemes:
