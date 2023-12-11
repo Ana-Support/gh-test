@@ -12,6 +12,24 @@
     "oas3.1"
   ],
   "aliases": {},
-  "rules": {},
+  "rules": {
+    "no-$ref-siblings-duplicate": {
+      "id": "v3ng2_6lAP_SZ-Bi2muuY",
+      "given": [
+        "#All_Ref"
+      ],
+      "severity": "error",
+      "then": {
+        "function": "refSiblings"
+      },
+      "name": "no-$ref-siblings-duplicate",
+      "description": "Property must not be placed among $ref.",
+      "message": "{{error}}",
+      "formats": [
+        "oas3.0",
+        "oas2"
+      ]
+    }
+  },
   "extendedDefault": true
 }
