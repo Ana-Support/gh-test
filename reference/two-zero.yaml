@@ -186,3 +186,13 @@ definitions:
       - emailVerified
     x-stoplight:
       id: 17klgx08dkutt
+  new-model:
+    title: new-model
+    x-stoplight:
+      id: 68eo1r0eg508m
+    type: object
+    properties:
+      id:
+        type: string
+        x-stoplight:
+          id: wdmkrpr0acy0g
