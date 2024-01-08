@@ -4,7 +4,8 @@
     {
       "type": "item",
       "title": "Tables",
-      "uri": "/docs/markdown.md"
+      "uri": "/docs/markdown.md",
+      "slug": "slug1"
     },
     {
       "type": "divider",
@@ -23,7 +24,8 @@
     {
       "type": "item",
       "title": "three-one",
-      "uri": "/reference/three-one.yaml"
+      "uri": "/reference/three-one.yaml",
+      "slug": "slug2"
     }
   ]
 }
