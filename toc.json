@@ -2,12 +2,18 @@
   "collapseTableOfContents": false,
   "items": [
     {
+      "type": "item",
+      "title": "Tables",
+      "uri": "/docs/markdown.md",
+      "slug": "slug-2"
+    },
+    {
       "type": "divider",
       "title": "APIS"
     },
     {
       "type": "item",
-      "title": "two-zero",
+      "title": "two-zero2",
       "uri": "/reference/two-zero.yaml"
     },
     {
@@ -18,7 +24,8 @@
     {
       "type": "item",
       "title": "three-one",
-      "uri": "/reference/three-one.yaml"
+      "uri": "/reference/three-one.yaml",
+      "slug": "slug-test"
     }
   ]
 }
