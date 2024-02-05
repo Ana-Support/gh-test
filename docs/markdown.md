@@ -30,6 +30,11 @@ playground/2. docs/link test.md
 
 <!--title: "ID Type Code List" 
 -->
-**Code** | **Name** | **Country**  |**Bank Indentifier** |
-|---------|------------------------------------------|-------|-----------|
-Test1|Test2|Test3|Test4|
+
+**Code** | **Name** |
+|---------|------------------------------------------|
+|<!-- focus: false -->![a-strawberry.jpeg](../assets/images/a-strawberry.jpeg)|![bird.png](../assets/images/bird.png) 
+
+
+<!-- focus: false -->
+![a-strawberry.jpeg](../assets/images/a-strawberry.jpeg)
