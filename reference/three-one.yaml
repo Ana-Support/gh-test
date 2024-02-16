@@ -164,7 +164,7 @@ components:
           type: integer
           description: Unique identifier for the given user.
           x-stoplight:
-            id: vxalcmf815ap0
+            id: gf7bunau6htzx
         firstName:
           type: string
           x-stoplight:
@@ -202,4 +202,4 @@ components:
         - email
         - emailVerified
       x-stoplight:
-        id: kepq8tm85l5e7
+        id: gf7bunau6htzx
