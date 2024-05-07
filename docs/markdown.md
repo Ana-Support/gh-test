@@ -3,7 +3,7 @@ stoplight-id: 4k8l8gkp7vrld
 ---
 
 
-# Tables
+# Tablesss
 
 - For scanning purposes and to shorten up how-to instructions (step-by-step procedures), avoid the use of the articles (“the”, “a” and “an”) unless absolutely needed for clarify. For example:
 
