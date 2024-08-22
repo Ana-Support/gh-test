@@ -11,7 +11,12 @@
     "oas3.0",
     "oas3.1"
   ],
-  "aliases": {},
+  "aliases": {
+    "": {
+      "id": "_GzXaVQ6SJrkvoa_NVhbt",
+      "targets": []
+    }
+  },
   "rules": {
     "no-$ref-siblings-duplicate": {
       "id": "v3ng2_6lAP_SZ-Bi2muuY",
@@ -29,7 +34,23 @@
         "oas3.0",
         "oas2"
       ]
+    },
+    "": {
+      "id": "25Hgay3a3OD4fqthezDGN",
+      "given": [],
+      "severity": "error",
+      "then": {
+        "function": ""
+      }
     }
   },
+  "x-embeddedFunctions": [
+    {
+      "id": "5NH8fY8HS-KPlq1iZ4xAL",
+      "extendedFrom": "",
+      "name": "new-function",
+      "content": "import { createRulesetFunction } from '@stoplight/spectral-core';\n\nexport default createRulesetFunction(\n  {\n    input: null,\n    options: {\n      type: \"object\",\n      additionalProperties: false,\n\n      properties: {\n        exceptions: {\n          type: \"array\",\n\n          items: {\n            type: \"string\"\n          }\n        }\n      }\n    },\n  },\n  // https://github.com/stoplightio/spectral/blob/develop/docs/guides/5-custom-functions.md#writing-functions\n  function new_function(input, options, context) {},\n);"
+    }
+  ],
   "extendedDefault": true
 }
