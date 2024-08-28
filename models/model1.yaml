@@ -1,0 +1,25 @@
+title: model1
+x-stoplight:
+  id: euo2uhmsa5mky
+type: object
+properties:
+  id:
+    type: string
+    x-stoplight:
+      id: 0zzchj63t4188
+  first-name:
+    type: string
+    x-stoplight:
+      id: yn6jo2dpab16k
+  last-name:
+    type: string
+    x-stoplight:
+      id: tuvqrd3px3183
+  email:
+    type: string
+    x-stoplight:
+      id: v34erc52nanri
+  dob:
+    type: string
+    x-stoplight:
+      id: qrntmuunxev14
