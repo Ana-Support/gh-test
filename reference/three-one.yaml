@@ -48,11 +48,11 @@ paths:
           content:
             application/json:
               schema:
-                $ref: ../models/model1.yaml
+                $ref: 'stoplight://resources/overrides/bVEoAk6PPqw'
               examples:
                 Updated User Rebecca Baker:
                   value:
-                    id: 13
+                    id: '13'
                     firstName: Rebecca
                     lastName: Baker
                     email: rebecca@gmail.com
