@@ -48,7 +48,7 @@ paths:
           content:
             application/json:
               schema:
-                $ref: 'stoplight://resources/overrides/bVEoAk6PPqw'
+                $ref: ../models/model1.yaml
               examples:
                 Updated User Rebecca Baker:
                   value:
@@ -202,7 +202,3 @@ components:
           description: The date that the user was created.
           x-stoplight:
             id: oomw92m2izsd5
-        test:
-          $ref: 'stoplight://resources/overrides/bVEoAk6PPqw'
-          x-stoplight:
-            id: 0vpnwmkema9l0
