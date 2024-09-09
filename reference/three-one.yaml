@@ -48,7 +48,7 @@ paths:
           content:
             application/json:
               schema:
-                $ref: ../models/model1.yaml
+                $ref: 'stoplight://resources/overrides/bVEoAk6PPqw'
               examples:
                 Updated User Rebecca Baker:
                   value:
@@ -175,11 +175,11 @@ components:
         firstName:
           type: string
           x-stoplight:
-            id: zvc92ugdvf8zb
+            id: gf7bunau6htzx
         lastName:
           type: string
           x-stoplight:
-            id: w77hae6knkh58
+            id: gf7bunau6htzx
         email:
           type: string
           format: email
