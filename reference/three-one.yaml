@@ -202,3 +202,13 @@ components:
           description: The date that the user was created.
           x-stoplight:
             id: oomw92m2izsd5
+    User2:
+      title: User2
+      x-stoplight:
+        id: gf7bunau6htzx
+      type: object
+      properties:
+        id:
+          type: string
+          x-stoplight:
+            id: lrcpqrfeyouhc
