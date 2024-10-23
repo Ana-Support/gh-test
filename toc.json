@@ -1,0 +1,38 @@
+{
+  "collapseTableOfContents": false,
+  "items": [
+    {
+      "type": "item",
+      "title": "Markdown",
+      "uri": "/docs/article1.md"
+    },
+    {
+      "type": "divider",
+      "title": "APIS"
+    },
+    {
+      "type": "item",
+      "title": "TWO ZERO",
+      "uri": "/reference/two-zero.yaml"
+    },
+    {
+      "type": "item",
+      "title": "THREE ZERO",
+      "uri": "/reference/three-zero.yaml"
+    },
+    {
+      "type": "item",
+      "title": "THREE ZERO TEST",
+      "uri": "/reference/three-one.yaml"
+    },
+    {
+      "type": "divider",
+      "title": "Schemas"
+    },
+    {
+      "type": "item",
+      "title": "model1",
+      "uri": "/models/model1.yaml"
+    }
+  ]
+}
