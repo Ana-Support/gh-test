@@ -2,7 +2,7 @@
 stoplight-id: zp36of11obhc7
 ---
 
-# article1
+# article1 - github
 
 The beginning of an awesome article...
 
