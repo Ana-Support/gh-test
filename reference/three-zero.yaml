@@ -2,7 +2,7 @@ openapi: 3.0.0
 x-stoplight:
   id: a09z9z6axq596
 info:
-  title: three-zero
+  title: three-zero git-test
   version: '1.0'
 servers:
   - url: 'http://localhost:3000'
